@@ -1,9 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
+NOTE: the jupyter file takes its time to load, be patient, it will come alive.
+
 # Final project Ironhack 
 Data Analytics course - parttime
 March-september 2021 
-
 
 ## Assignment
 Come up with an interesting question
